@@ -130,6 +130,7 @@ class Taxonomy
             'show_admin_column' => $this->show_admin_column,
             'show_in_nav_menus' => $this->show_in_nav_menus,
             'show_tagcloud'     => $this->show_tagcloud,
+            'show_in_rest' => true,
         );
     }
 
